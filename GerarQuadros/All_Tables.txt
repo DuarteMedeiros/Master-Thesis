@@ -1,0 +1,304 @@
+	\begin{table}[!htp]
+		\begin{adjustwidth}{-5cm}{-5cm}
+		\caption{Continuous single results}
+		\label{tab:Continuous_Single_Results}
+			\begin{center}
+				\begin{tabular}{ccc|cc|cc|cc}
+					\noalign{\smallskip}
+					\multicolumn{2}{c}{\multirow{2}{*}{\centering Instance}} & \multirow{2}{*}{\centering Obj. Func.} & \multirow{2}{*}{\centering Opt.} & \multirow{2}{*}{\centering Time} & \multirow{2}{*}{\centering LR} & \multirow{2}{*}{\centering Time} & \multirow{2}{*}{\centering Linear Gap} & \multirow{2}{*}{\centering Final Gap (\%)} \\ & & & & & & & &\\ 
+
+
+					\hline
+					\multirow{12}{*}{\centering North} & \multirow{12}{*}{\centering 125} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 164.0} & \multirow{2}{*}{\centering 1.38} & \multirow{2}{*}{\centering 84.0} & \multirow{2}{*}{\centering 0.17} &  \multirow{2}{*}{\centering 48.2} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 4544.0} & \multirow{2}{*}{\centering 1.15} & \multirow{2}{*}{\centering 1049.8} & \multirow{2}{*}{\centering 0.18} & \multirow{2}{*}{\centering 76.9} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering First Mom. Adj.} & \multirow{2}{*}{\centering 113464.0} & \multirow{2}{*}{\centering 13.41} & \multirow{2}{*}{\centering 32287.4} & \multirow{2}{*}{\centering 0.17} & \multirow{2}{*}{\centering 71.5} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom. Adj.} & \multirow{2}{*}{\centering 3170968.0} & \multirow{2}{*}{\centering 6.02} & \multirow{2}{*}{\centering 230115.0} & \multirow{2}{*}{\centering 0.17} & \multirow{2}{*}{\centering 92.7} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 85.0} & \multirow{2}{*}{\centering 10.49} & \multirow{2}{*}{\centering 0.0} & \multirow{2}{*}{\centering 0.15} & \multirow{2}{*}{\centering 100.0} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 402.0} & \multirow{2}{*}{\centering 1.88} & \multirow{2}{*}{\centering 185.4} & \multirow{2}{*}{\centering 0.27} & \multirow{2}{*}{\centering 53.7} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\ 
+
+					\hline
+					\multirow{12}{*}{\centering Center} & \multirow{12}{*}{\centering 96} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 104.0} & \multirow{2}{*}{\centering 0.36} & \multirow{2}{*}{\centering 64.9} & \multirow{2}{*}{\centering 0.10} &  \multirow{2}{*}{\centering 37.5} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 2794.0} & \multirow{2}{*}{\centering 0.34} & \multirow{2}{*}{\centering 970.5} & \multirow{2}{*}{\centering 0.10} & \multirow{2}{*}{\centering 65.2} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering First Mom. Adj.} & \multirow{2}{*}{\centering 90417.0} & \multirow{2}{*}{\centering 3.36} & \multirow{2}{*}{\centering 32596.8} & \multirow{2}{*}{\centering 0.12} & \multirow{2}{*}{\centering 64.0} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom. Adj.} & \multirow{2}{*}{\centering 2619617.0} & \multirow{2}{*}{\centering 2.45} & \multirow{2}{*}{\centering 254281.8} & \multirow{2}{*}{\centering 0.12} & \multirow{2}{*}{\centering 90.3} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 89.0} & \multirow{2}{*}{\centering 1.96} & \multirow{2}{*}{\centering 0.0} & \multirow{2}{*}{\centering 0.09} & \multirow{2}{*}{\centering 100.0} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 372.0} & \multirow{2}{*}{\centering 0.58} & \multirow{2}{*}{\centering 206.2} & \multirow{2}{*}{\centering 0.19} & \multirow{2}{*}{\centering 44.4} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\ 
+
+					\hline
+					\multirow{12}{*}{\centering South} & \multirow{12}{*}{\centering 57} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 90.0} & \multirow{2}{*}{\centering 0.16} & \multirow{2}{*}{\centering 55.0} & \multirow{2}{*}{\centering 0.07} &  \multirow{2}{*}{\centering 38.9} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 2826.0} & \multirow{2}{*}{\centering 0.18} & \multirow{2}{*}{\centering 906.6} & \multirow{2}{*}{\centering 0.06} & \multirow{2}{*}{\centering 67.9} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering First Mom. Adj.} & \multirow{2}{*}{\centering 88315.0} & \multirow{2}{*}{\centering 0.69} & \multirow{2}{*}{\centering 43940.2} & \multirow{2}{*}{\centering 0.06} & \multirow{2}{*}{\centering 50.2} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom. Adj.} & \multirow{2}{*}{\centering 2638863.0} & \multirow{2}{*}{\centering 0.47} & \multirow{2}{*}{\centering 506094.4} & \multirow{2}{*}{\centering 0.07} & \multirow{2}{*}{\centering 80.8} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 91.0} & \multirow{2}{*}{\centering 0.38} & \multirow{2}{*}{\centering 0.0} & \multirow{2}{*}{\centering 0.07} & \multirow{2}{*}{\centering 100.0} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 404.0} & \multirow{2}{*}{\centering 0.44} & \multirow{2}{*}{\centering 188.5} & \multirow{2}{*}{\centering 0.08} & \multirow{2}{*}{\centering 53.2} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\ 
+
+					\hline
+				\end{tabular}
+			\end{center}
+		\end{adjustwidth}
+	\end{table}
+
+
+	\begin{table}[!htp]
+		\begin{adjustwidth}{-5cm}{-5cm}
+		\caption{Discrete single results}
+		\label{tab:Discrete_Single_Results}
+			\begin{center}
+				\begin{tabular}{ccc|cc|cc|cc}
+					\noalign{\smallskip}
+					\multicolumn{2}{c}{\multirow{2}{*}{\centering Instance}} & \multirow{2}{*}{\centering Obj. Func.} & \multirow{2}{*}{\centering Opt.} & \multirow{2}{*}{\centering Time} & \multirow{2}{*}{\centering LR} & \multirow{2}{*}{\centering Time} & \multirow{2}{*}{\centering Linear Gap} & \multirow{2}{*}{\centering Final Gap (\%)} \\ & & & & & & & &\\ 
+
+
+					\hline
+					\multirow{8}{*}{\centering Square} & \multirow{8}{*}{\centering 100} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 22.1} & \multirow{2}{*}{\centering 3.06} & \multirow{2}{*}{\centering 14.0} & \multirow{2}{*}{\centering 0.12} &  \multirow{2}{*}{\centering 36.7} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 38.0} & \multirow{2}{*}{\centering 3.09} & \multirow{2}{*}{\centering 14.0} & \multirow{2}{*}{\centering 0.12} & \multirow{2}{*}{\centering 63.1} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 5.4} & \multirow{2}{*}{\centering 4.29} & \multirow{2}{*}{\centering 0.0} & \multirow{2}{*}{\centering 0.07} & \multirow{2}{*}{\centering 100.0} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 16.0} & \multirow{2}{*}{\centering 0.44} & \multirow{2}{*}{\centering 6.0} & \multirow{2}{*}{\centering 0.19} & \multirow{2}{*}{\centering 62.5} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\ 
+
+					\hline
+					\multirow{8}{*}{\centering Hexagon} & \multirow{8}{*}{\centering 127} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 53.7} & \multirow{2}{*}{\centering 5.30} & \multirow{2}{*}{\centering 31.2} & \multirow{2}{*}{\centering 0.16} &  \multirow{2}{*}{\centering 40.4} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 164.8} & \multirow{2}{*}{\centering 3.60} & \multirow{2}{*}{\centering 54.0} & \multirow{2}{*}{\centering 0.16} & \multirow{2}{*}{\centering 66.6} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 9.5} & \multirow{2}{*}{\centering 8.53} & \multirow{2}{*}{\centering 0.0} & \multirow{2}{*}{\centering 0.11} & \multirow{2}{*}{\centering 100.0} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 32.0} & \multirow{2}{*}{\centering 2.88} & \multirow{2}{*}{\centering 11.7} & \multirow{2}{*}{\centering 0.62} & \multirow{2}{*}{\centering 62.5} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\ 
+
+					\hline
+				\end{tabular}
+			\end{center}
+		\end{adjustwidth}
+	\end{table}
+
+
+
+	\begin{table}[!htp]
+		\begin{adjustwidth}{-5cm}{-5cm}
+		\caption{Continuous multiple results}
+		\label{tab:Continuous_Multiple_Results}
+			\begin{center}
+				\begin{tabular}{ccc|cc|cc|cc}
+					\noalign{\smallskip}
+					\multicolumn{2}{c}{\multirow{2}{*}{\centering Instance}} & \multirow{2}{*}{\centering Obj. Func.} & \multirow{2}{*}{\centering Opt.} & \multirow{2}{*}{\centering Time} & \multirow{2}{*}{\centering LR} & \multirow{2}{*}{\centering Time} & \multirow{2}{*}{\centering Linear Gap} & \multirow{2}{*}{\centering Final Gap (\%)} \\ & & & & & & & &\\ 
+
+
+					\hline
+					\multirow{12}{*}{\centering North} & \multirow{12}{*}{\centering 125} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 3300.0} & \multirow{2}{*}{\centering 605.94} & \multirow{2}{*}{\centering 1314.6} & \multirow{2}{*}{\centering 0.15} &  \multirow{2}{*}{\centering 55.1} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 104959.0} & \multirow{2}{*}{\centering 307.30} & \multirow{2}{*}{\centering 16289.1} & \multirow{2}{*}{\centering 0.15} & \multirow{2}{*}{\centering 79.2} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering First Mom. Adj.} & \multirow{2}{*}{\centering 870920.0} & \multirow{2}{*}{\centering 3817.63} & \multirow{2}{*}{\centering 391110.9} & \multirow{2}{*}{\centering 0.15} & \multirow{2}{*}{\centering 60.1} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom. Adj.} & \multirow{2}{*}{\centering 27808352.0} & \multirow{2}{*}{\centering 524.99} & \multirow{2}{*}{\centering 5793232.3} & \multirow{2}{*}{\centering 0.16} & \multirow{2}{*}{\centering 84.5} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering \colorbox{GreenYellow}{Diameter}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{831.0}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{10019.71}} & \multirow{2}{*}{\centering 27.0} & \multirow{2}{*}{\centering 29.81} & \multirow{2}{*}{\centering 96.8} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{71.4}}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering \colorbox{GreenYellow}{Perimeter}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{3100.0}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{10002.58}} & \multirow{2}{*}{\centering 1732.9} & \multirow{2}{*}{\centering 7.48} & \multirow{2}{*}{\centering 44.1} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{38.7}}\\ & & & & & & & &\\ 
+
+					\hline
+					\multirow{12}{*}{\centering Center} & \multirow{12}{*}{\centering 96} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 2448.0} & \multirow{2}{*}{\centering 39.57} & \multirow{2}{*}{\centering 1080.8} & \multirow{2}{*}{\centering 0.08} &  \multirow{2}{*}{\centering 48.1} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 76366.0} & \multirow{2}{*}{\centering 11.84} & \multirow{2}{*}{\centering 14961.9} & \multirow{2}{*}{\centering 0.09} & \multirow{2}{*}{\centering 73.4} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering First Mom. Adj.} & \multirow{2}{*}{\centering 794386.0} & \multirow{2}{*}{\centering 164.27} & \multirow{2}{*}{\centering 412619.1} & \multirow{2}{*}{\centering 0.10} & \multirow{2}{*}{\centering 55.8} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom. Adj.} & \multirow{2}{*}{\centering 26240029.0} & \multirow{2}{*}{\centering 77.41} & \multirow{2}{*}{\centering 6980683.9} & \multirow{2}{*}{\centering 0.11} & \multirow{2}{*}{\centering 80.4} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering \colorbox{GreenYellow}{Diameter}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{748.0}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{10006.24}} & \multirow{2}{*}{\centering 43.0} & \multirow{2}{*}{\centering 5.76} & \multirow{2}{*}{\centering 94.2} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{55.8}}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering \colorbox{GreenYellow}{Perimeter}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{3137.0}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{10000.56}} & \multirow{2}{*}{\centering 2179.7} & \multirow{2}{*}{\centering 12.33} & \multirow{2}{*}{\centering 30.5} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{21.3}}\\ & & & & & & & &\\ 
+
+					\hline
+					\multirow{12}{*}{\centering South} & \multirow{12}{*}{\centering 57} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 1474.0} & \multirow{2}{*}{\centering 1.48} & \multirow{2}{*}{\centering 841.7} & \multirow{2}{*}{\centering 0.06} &  \multirow{2}{*}{\centering 33.6} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 50023.0} & \multirow{2}{*}{\centering 0.68} & \multirow{2}{*}{\centering 15847.8} & \multirow{2}{*}{\centering 0.07} & \multirow{2}{*}{\centering 56.7} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering First Mom. Adj.} & \multirow{2}{*}{\centering 727457.0} & \multirow{2}{*}{\centering 4.23} & \multirow{2}{*}{\centering 482874.4} & \multirow{2}{*}{\centering 0.06} & \multirow{2}{*}{\centering 42.9} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom. Adj.} & \multirow{2}{*}{\centering 24713806.0} & \multirow{2}{*}{\centering 1.99} & \multirow{2}{*}{\centering 10711423.0} & \multirow{2}{*}{\centering 0.07} & \multirow{2}{*}{\centering 68.3} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering \colorbox{GreenYellow}{Diameter}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{695.0}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{10001.44}} & \multirow{2}{*}{\centering 39.0} & \multirow{2}{*}{\centering 1.24} & \multirow{2}{*}{\centering 94.4} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{39.4}}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 3610.0} & \multirow{2}{*}{\centering 1778.36} & \multirow{2}{*}{\centering 2695.7} & \multirow{2}{*}{\centering 0.55} & \multirow{2}{*}{\centering 25.3} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\ 
+
+					\hline
+				\end{tabular}
+			\end{center}
+		\end{adjustwidth}
+	\end{table}
+
+
+	\begin{table}[!htp]
+		\begin{adjustwidth}{-5cm}{-5cm}
+		\caption{Discrete multiple results}
+		\label{tab:Discrete_Multiple_Results}
+			\begin{center}
+				\begin{tabular}{ccc|cc|cc|cc}
+					\noalign{\smallskip}
+					\multicolumn{2}{c}{\multirow{2}{*}{\centering Instance}} & \multirow{2}{*}{\centering Obj. Func.} & \multirow{2}{*}{\centering Opt.} & \multirow{2}{*}{\centering Time} & \multirow{2}{*}{\centering LR} & \multirow{2}{*}{\centering Time} & \multirow{2}{*}{\centering Linear Gap} & \multirow{2}{*}{\centering Final Gap (\%)} \\ & & & & & & & &\\ 
+
+
+					\hline
+					\multirow{8}{*}{\centering Square} & \multirow{8}{*}{\centering 100} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 159.9} & \multirow{2}{*}{\centering 9768.14} & \multirow{2}{*}{\centering 93.3} & \multirow{2}{*}{\centering 0.36} &  \multirow{2}{*}{\centering 41.2} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 300.2} & \multirow{2}{*}{\centering 306.06} & \multirow{2}{*}{\centering 93.3} & \multirow{2}{*}{\centering 0.11} & \multirow{2}{*}{\centering 68.7} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering \colorbox{GreenYellow}{Diameter}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{42.9}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{10008.11}} & \multirow{2}{*}{\centering 1.4} & \multirow{2}{*}{\centering 6.41} & \multirow{2}{*}{\centering 95.3} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{63.6}}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering \colorbox{GreenYellow}{Perimeter}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{112.0}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{10004.82}} & \multirow{2}{*}{\centering 56.3} & \multirow{2}{*}{\centering 3.34} & \multirow{2}{*}{\centering 49.1} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{43.4}}\\ & & & & & & & &\\ 
+
+					\hline
+					\multirow{8}{*}{\centering Hexagon} & \multirow{8}{*}{\centering 127} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 366.4} & \multirow{2}{*}{\centering 93.67} & \multirow{2}{*}{\centering 208.2} & \multirow{2}{*}{\centering 0.17} &  \multirow{2}{*}{\centering 43.0} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 1237.8} & \multirow{2}{*}{\centering 428.21} & \multirow{2}{*}{\centering 360.1} & \multirow{2}{*}{\centering 0.36} & \multirow{2}{*}{\centering 70.8} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering \colorbox{GreenYellow}{Diameter}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{73.8}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{10014.33}} & \multirow{2}{*}{\centering 2.0} & \multirow{2}{*}{\centering 13.64} & \multirow{2}{*}{\centering 97.3} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{72.2}}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering \colorbox{GreenYellow}{Perimeter}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{238.0}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{10001.14}} & \multirow{2}{*}{\centering 113.6} & \multirow{2}{*}{\centering 43.38} & \multirow{2}{*}{\centering 52.1} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{48.0}}\\ & & & & & & & &\\ 
+
+					\hline
+				\end{tabular}
+			\end{center}
+		\end{adjustwidth}
+	\end{table}
+
+
+
+	\begin{table}[!htp]
+		\begin{adjustwidth}{-5cm}{-5cm}
+		\caption{Continuous single compactness}
+		\label{tab:Continuous_Single_Compactness}
+			\begin{center}
+				\begin{tabular}{cccccc}
+					\noalign{\smallskip}
+					\multicolumn{2}{c}{\multirow{4}{*}{\centering Instance}} & \multirow{4}{*}{\centering Obj. Func.} & \multicolumn{3}{c}{\multirow{2}{*}{\centering Evaluation Measures}}\\ & & & \multicolumn{3}{c}{} \\ \cline{4-6} & & & \multirow{2}{*}{\centering $\gamma_2$ (Perimeter)} & \multirow{2}{*}{\centering $\gamma_4$ (Diameter)} & \multirow{2}{*}{\centering $\gamma_{14}$ (Moment of Inertia)}\\ & & & & &\\   
+
+					\hline
+					\multirow{12}{*}{\centering North} & \multirow{12}{*}{\centering 125} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 0.30} & \multirow{2}{*}{\centering 0.64} & \multirow{2}{*}{\centering 0.92}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 0.30} & \multirow{2}{*}{\centering 0.64} & \multirow{2}{*}{\centering 0.92}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering First Mom. Adj.} & \multirow{2}{*}{\centering 0.30} & \multirow{2}{*}{\centering 0.64} & \multirow{2}{*}{\centering 0.92}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom. Adj.} & \multirow{2}{*}{\centering 0.30} & \multirow{2}{*}{\centering 0.64} & \multirow{2}{*}{\centering 0.92}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 0.24} & \multirow{2}{*}{\centering 0.83} & \multirow{2}{*}{\centering 0.96}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 0.37} & \multirow{2}{*}{\centering 0.66} & \multirow{2}{*}{\centering 0.92}\\ & & & & &\\ 
+
+					\hline
+					\multirow{12}{*}{\centering Center} & \multirow{12}{*}{\centering 96} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 0.29} & \multirow{2}{*}{\centering 0.73} & \multirow{2}{*}{\centering 0.95}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 0.29} & \multirow{2}{*}{\centering 0.73} & \multirow{2}{*}{\centering 0.95}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering First Mom. Adj.} & \multirow{2}{*}{\centering 0.19} & \multirow{2}{*}{\centering 0.24} & \multirow{2}{*}{\centering 0.76}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom. Adj.} & \multirow{2}{*}{\centering 0.24} & \multirow{2}{*}{\centering 0.67} & \multirow{2}{*}{\centering 0.90}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 0.29} & \multirow{2}{*}{\centering 0.73} & \multirow{2}{*}{\centering 0.97}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 0.43} & \multirow{2}{*}{\centering 0.61} & \multirow{2}{*}{\centering 0.93}\\ & & & & &\\ 
+
+					\hline
+					\multirow{12}{*}{\centering South} & \multirow{12}{*}{\centering 57} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 0.19} & \multirow{2}{*}{\centering 0.44} & \multirow{2}{*}{\centering 0.73}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 0.19} & \multirow{2}{*}{\centering 0.44} & \multirow{2}{*}{\centering 0.73}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering First Mom. Adj.} & \multirow{2}{*}{\centering 0.21} & \multirow{2}{*}{\centering 0.44} & \multirow{2}{*}{\centering 0.85}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom. Adj.} & \multirow{2}{*}{\centering 0.24} & \multirow{2}{*}{\centering 0.65} & \multirow{2}{*}{\centering 0.92}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 0.24} & \multirow{2}{*}{\centering 0.71} & \multirow{2}{*}{\centering 0.94}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 0.33} & \multirow{2}{*}{\centering 0.62} & \multirow{2}{*}{\centering 0.89}\\ & & & & &\\ 
+
+					\hline
+				\end{tabular}
+			\end{center}
+		\end{adjustwidth}
+	\end{table}
+
+
+	\begin{table}[!htp]
+		\begin{adjustwidth}{-5cm}{-5cm}
+		\caption{Discrete single compactness}
+		\label{tab:DiscreteSingle_Compactness}
+			\begin{center}
+				\begin{tabular}{cccccc}
+					\noalign{\smallskip}
+					\multicolumn{2}{c}{\multirow{4}{*}{\centering Instance}} & \multirow{4}{*}{\centering Obj. Func.} & \multicolumn{3}{c}{\multirow{2}{*}{\centering Evaluation Measures}}\\ & & & \multicolumn{3}{c}{} \\ \cline{4-6} & & & \multirow{2}{*}{\centering $\gamma_2$ (Perimeter)} & \multirow{2}{*}{\centering $\gamma_4$ (Diameter)} & \multirow{2}{*}{\centering $\gamma_{14}$ (Moment of Inertia)}\\ & & & & &\\   
+
+					\hline
+					\multirow{8}{*}{\centering Square} & \multirow{8}{*}{\centering 100} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 0.47} & \multirow{2}{*}{\centering 0.66} & \multirow{2}{*}{\centering 0.90}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 0.47} & \multirow{2}{*}{\centering 0.66} & \multirow{2}{*}{\centering 0.90}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 0.58} & \multirow{2}{*}{\centering 0.66} & \multirow{2}{*}{\centering 0.92}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 0.74} & \multirow{2}{*}{\centering 0.60} & \multirow{2}{*}{\centering 0.95}\\ & & & & &\\ 
+
+					\hline
+					\multirow{8}{*}{\centering Hexagon} & \multirow{8}{*}{\centering 127} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 0.64} & \multirow{2}{*}{\centering 0.68} & \multirow{2}{*}{\centering 0.96}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 0.64} & \multirow{2}{*}{\centering 0.68} & \multirow{2}{*}{\centering 0.96}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 0.57} & \multirow{2}{*}{\centering 0.73} & \multirow{2}{*}{\centering 0.95}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 0.64} & \multirow{2}{*}{\centering 0.68} & \multirow{2}{*}{\centering 0.95}\\ & & & & &\\ 
+
+					\hline
+				\end{tabular}
+			\end{center}
+		\end{adjustwidth}
+	\end{table}
+
+
+
+
+
+	\begin{table}[!htp]
+		\begin{adjustwidth}{-5cm}{-5cm}
+		\caption{Multiple continuous evaluation}
+		\label{tab:Continuous_Multiple_Evaluation}
+			\begin{center}
+				\begin{tabular}{ccc|ccc|ccc|ccc}
+					\noalign{\smallskip}
+					\multicolumn{2}{c}{\multirow{6}{*}{\centering Instance}} & \multirow{6}{*}{\centering Obj. Func.} & \multicolumn{9}{c}{\multirow{2}{*}{\centering Evaluation Measures}}\\ & & & \multicolumn{9}{c}{}\\ \cline{4-12} & & & \multicolumn{3}{c|}{\multirow{2}{*}{\centering $\gamma_2$ (Perimeter)}} & \multicolumn{3}{c|}{\multirow{2}{*}{\centering $\gamma_4$ (Diameter)}} & \multicolumn{3}{c}{\multirow{2}{*}{\centering $\gamma_{14}$ (Moment of Inertia)}}\\ & & & & & & & & & & & \\ \cline{4-12}	& & & \multirow{2}{*}{\centering Min} & \multirow{2}{*}{\centering Max} & \multirow{2}{*}{\centering Avg.} & \multirow{2}{*}{\centering Min} & \multirow{2}{*}{\centering Max} & \multirow{2}{*}{\centering Avg.} & \multirow{2}{*}{\centering Min} & \multirow{2}{*}{\centering Max} & \multirow{2}{*}{\centering Avg.} \\ & & & & & & & & & & & \\ 
+
+					\hline
+					\multirow{12}{*}{\centering North} & \multirow{12}{*}{\centering 125} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 0.17} & \multirow{2}{*}{\centering 0.27} & \multirow{2}{*}{\centering 0.22} & \multirow{2}{*}{\centering 0.50} & \multirow{2}{*}{\centering 0.63} & \multirow{2}{*}{\centering 0.57} & \multirow{2}{*}{\centering 0.70} & \multirow{2}{*}{\centering 0.91} & \multirow{2}{*}{\centering 0.83}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 0.14} & \multirow{2}{*}{\centering 0.25} & \multirow{2}{*}{\centering 0.20} & \multirow{2}{*}{\centering 0.47} & \multirow{2}{*}{\centering 0.59} & \multirow{2}{*}{\centering 0.53} & \multirow{2}{*}{\centering 0.78} & \multirow{2}{*}{\centering 0.92} & \multirow{2}{*}{\centering 0.83}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering First Mom. Adj.} & \multirow{2}{*}{\centering 0.20} & \multirow{2}{*}{\centering 0.31} & \multirow{2}{*}{\centering 0.24} & \multirow{2}{*}{\centering 0.53} & \multirow{2}{*}{\centering 0.64} & \multirow{2}{*}{\centering 0.58} & \multirow{2}{*}{\centering 0.79} & \multirow{2}{*}{\centering 0.93} & \multirow{2}{*}{\centering 0.86}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom. Adj.} & \multirow{2}{*}{\centering 0.20} & \multirow{2}{*}{\centering 0.31} & \multirow{2}{*}{\centering 0.24} & \multirow{2}{*}{\centering 0.53} & \multirow{2}{*}{\centering 0.64} & \multirow{2}{*}{\centering 0.58} & \multirow{2}{*}{\centering 0.79} & \multirow{2}{*}{\centering 0.93} & \multirow{2}{*}{\centering 0.86}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering \colorbox{GreenYellow}{Diameter}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.05}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.10}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.07}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.17}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.63}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.40}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.19}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.73}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.47}}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering \colorbox{GreenYellow}{Perimeter}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.20}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.34}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.25}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.14}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.57}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.36}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.34}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.86}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.72}}\\ & & & & & & & & & & &\\ 
+
+					\hline
+					\multirow{12}{*}{\centering Center} & \multirow{12}{*}{\centering 96} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 0.17} & \multirow{2}{*}{\centering 0.33} & \multirow{2}{*}{\centering 0.22} & \multirow{2}{*}{\centering 0.34} & \multirow{2}{*}{\centering 0.57} & \multirow{2}{*}{\centering 0.49} & \multirow{2}{*}{\centering 0.72} & \multirow{2}{*}{\centering 0.87} & \multirow{2}{*}{\centering 0.80}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 0.17} & \multirow{2}{*}{\centering 0.33} & \multirow{2}{*}{\centering 0.22} & \multirow{2}{*}{\centering 0.34} & \multirow{2}{*}{\centering 0.57} & \multirow{2}{*}{\centering 0.49} & \multirow{2}{*}{\centering 0.72} & \multirow{2}{*}{\centering 0.87} & \multirow{2}{*}{\centering 0.80}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering First Mom. Adj.} & \multirow{2}{*}{\centering 0.14} & \multirow{2}{*}{\centering 0.28} & \multirow{2}{*}{\centering 0.20} & \multirow{2}{*}{\centering 0.28} & \multirow{2}{*}{\centering 0.62} & \multirow{2}{*}{\centering 0.48} & \multirow{2}{*}{\centering 0.66} & \multirow{2}{*}{\centering 0.92} & \multirow{2}{*}{\centering 0.81}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom. Adj.} & \multirow{2}{*}{\centering 0.16} & \multirow{2}{*}{\centering 0.31} & \multirow{2}{*}{\centering 0.22} & \multirow{2}{*}{\centering 0.33} & \multirow{2}{*}{\centering 0.60} & \multirow{2}{*}{\centering 0.50} & \multirow{2}{*}{\centering 0.72} & \multirow{2}{*}{\centering 0.89} & \multirow{2}{*}{\centering 0.82}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering \colorbox{GreenYellow}{Diameter}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.05}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.23}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.12}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.29}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.57}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.43}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.38}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.82}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.58}}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering \colorbox{GreenYellow}{Perimeter}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.15}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.29}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.24}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.40}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.54}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.47}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.50}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.96}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.74}}\\ & & & & & & & & & & &\\ 
+
+					\hline
+					\multirow{12}{*}{\centering South} & \multirow{12}{*}{\centering 57} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 0.09} & \multirow{2}{*}{\centering 0.26} & \multirow{2}{*}{\centering 0.17} & \multirow{2}{*}{\centering 0.31} & \multirow{2}{*}{\centering 0.63} & \multirow{2}{*}{\centering 0.49} & \multirow{2}{*}{\centering 0.66} & \multirow{2}{*}{\centering 0.90} & \multirow{2}{*}{\centering 0.82}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 0.09} & \multirow{2}{*}{\centering 0.26} & \multirow{2}{*}{\centering 0.17} & \multirow{2}{*}{\centering 0.31} & \multirow{2}{*}{\centering 0.63} & \multirow{2}{*}{\centering 0.49} & \multirow{2}{*}{\centering 0.66} & \multirow{2}{*}{\centering 0.90} & \multirow{2}{*}{\centering 0.82}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering First Mom. Adj.} & \multirow{2}{*}{\centering 0.09} & \multirow{2}{*}{\centering 0.24} & \multirow{2}{*}{\centering 0.16} & \multirow{2}{*}{\centering 0.22} & \multirow{2}{*}{\centering 0.55} & \multirow{2}{*}{\centering 0.40} & \multirow{2}{*}{\centering 0.60} & \multirow{2}{*}{\centering 0.89} & \multirow{2}{*}{\centering 0.78}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom. Adj.} & \multirow{2}{*}{\centering 0.08} & \multirow{2}{*}{\centering 0.29} & \multirow{2}{*}{\centering 0.17} & \multirow{2}{*}{\centering 0.33} & \multirow{2}{*}{\centering 0.74} & \multirow{2}{*}{\centering 0.48} & \multirow{2}{*}{\centering 0.59} & \multirow{2}{*}{\centering 0.95} & \multirow{2}{*}{\centering 0.77}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering \colorbox{GreenYellow}{Diameter}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.04}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.25}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.13}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.35}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.62}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.46}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.53}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.90}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.67}}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 0.10} & \multirow{2}{*}{\centering 0.24} & \multirow{2}{*}{\centering 0.17} & \multirow{2}{*}{\centering 0.31} & \multirow{2}{*}{\centering 0.60} & \multirow{2}{*}{\centering 0.46} & \multirow{2}{*}{\centering 0.65} & \multirow{2}{*}{\centering 0.93} & \multirow{2}{*}{\centering 0.81}\\ & & & & & & & & & & &\\ 
+
+					\hline
+				\end{tabular}
+			\end{center}
+		\end{adjustwidth}
+	\end{table}
+
+
+	\begin{table}[!htp]
+		\begin{adjustwidth}{-5cm}{-5cm}
+		\caption{Discrete continuous evaluation}
+		\label{tab:Discrete_Multiple_Evaluation}
+			\begin{center}
+				\begin{tabular}{ccc|ccc|ccc|ccc}
+					\noalign{\smallskip}
+					\multicolumn{2}{c}{\multirow{6}{*}{\centering Instance}} & \multirow{6}{*}{\centering Obj. Func.} & \multicolumn{9}{c}{\multirow{2}{*}{\centering Evaluation Measures}}\\ & & & \multicolumn{9}{c}{}\\ \cline{4-12} & & & \multicolumn{3}{c|}{\multirow{2}{*}{\centering $\gamma_2$ (Perimeter)}} & \multicolumn{3}{c|}{\multirow{2}{*}{\centering $\gamma_4$ (Diameter)}} & \multicolumn{3}{c}{\multirow{2}{*}{\centering $\gamma_{14} (Moment of Inertia)$}}\\ & & & & & & & & & & & \\ \cline{4-12}	& & & \multirow{2}{*}{\centering Min} & \multirow{2}{*}{\centering Max} & \multirow{2}{*}{\centering Avg.} & \multirow{2}{*}{\centering Min} & \multirow{2}{*}{\centering Max} & \multirow{2}{*}{\centering Avg.} & \multirow{2}{*}{\centering Min} & \multirow{2}{*}{\centering Max} & \multirow{2}{*}{\centering Avg.} \\ & & & & & & & & & & & \\ 
+
+					\hline
+					\multirow{8}{*}{\centering Square} & \multirow{8}{*}{\centering 100} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 0.74} & \multirow{2}{*}{\centering 0.78} & \multirow{2}{*}{\centering 0.75} & \multirow{2}{*}{\centering 0.56} & \multirow{2}{*}{\centering 0.62} & \multirow{2}{*}{\centering 0.58} & \multirow{2}{*}{\centering 0.84} & \multirow{2}{*}{\centering 0.93} & \multirow{2}{*}{\centering 0.87}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 0.74} & \multirow{2}{*}{\centering 0.78} & \multirow{2}{*}{\centering 0.75} & \multirow{2}{*}{\centering 0.56} & \multirow{2}{*}{\centering 0.62} & \multirow{2}{*}{\centering 0.58} & \multirow{2}{*}{\centering 0.84} & \multirow{2}{*}{\centering 0.93} & \multirow{2}{*}{\centering 0.87}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering \colorbox{GreenYellow}{Diameter}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.14}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.44}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.26}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.19}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.62}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.39}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.28}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.84}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.52}}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering \colorbox{GreenYellow}{Perimeter}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.32}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.78}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.55}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.20}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.62}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.41}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.35}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.93}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.65}}\\ & & & & & & & & & & &\\ 
+
+					\hline
+					\multirow{8}{*}{\centering Hexagon} & \multirow{8}{*}{\centering 127} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 0.50} & \multirow{2}{*}{\centering 0.59} & \multirow{2}{*}{\centering 0.54} & \multirow{2}{*}{\centering 0.55} & \multirow{2}{*}{\centering 0.64} & \multirow{2}{*}{\centering 0.59} & \multirow{2}{*}{\centering 0.84} & \multirow{2}{*}{\centering 0.93} & \multirow{2}{*}{\centering 0.88}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 0.50} & \multirow{2}{*}{\centering 0.57} & \multirow{2}{*}{\centering 0.54} & \multirow{2}{*}{\centering 0.55} & \multirow{2}{*}{\centering 0.64} & \multirow{2}{*}{\centering 0.59} & \multirow{2}{*}{\centering 0.84} & \multirow{2}{*}{\centering 0.91} & \multirow{2}{*}{\centering 0.88}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering \colorbox{GreenYellow}{Diameter}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.13}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.31}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.22}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.35}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.72}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.48}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.41}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.81}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.61}}\\ & & & & & & & & & & &\\ & &
+					\multirow{2}{*}{\centering \colorbox{GreenYellow}{Perimeter}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.37}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.54}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.44}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.34}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.61}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.46}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.62}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.86}} & \multirow{2}{*}{\centering \colorbox{GreenYellow}{0.73}}\\ & & & & & & & & & & &\\ 
+
+					\hline
+				\end{tabular}
+			\end{center}
+		\end{adjustwidth}
+	\end{table}
+
+
+
+
+

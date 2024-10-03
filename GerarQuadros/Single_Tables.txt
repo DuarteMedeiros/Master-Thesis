@@ -1,0 +1,73 @@
+	\begin{table}[!htp]
+		\begin{adjustwidth}{-5cm}{-5cm}
+		\caption{Continuous single results}
+		\label{tab:Continuous_Single_Results}
+			\begin{center}
+				\begin{tabular}{ccc|cc|cc|cc}
+					\noalign{\smallskip}
+					\multicolumn{2}{c}{\multirow{2}{*}{\centering Instance}} & \multirow{2}{*}{\centering Obj. Func.} & \multirow{2}{*}{\centering Opt.} & \multirow{2}{*}{\centering Time} & \multirow{2}{*}{\centering LR} & \multirow{2}{*}{\centering Time} & \multirow{2}{*}{\centering Linear Gap} & \multirow{2}{*}{\centering Final Gap (\%)} \\ & & & & & & & &\\ 
+
+
+					\hline
+					\multirow{12}{*}{\centering North} & \multirow{12}{*}{\centering 125} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 164.0} & \multirow{2}{*}{\centering 1.38} & \multirow{2}{*}{\centering 84.0} & \multirow{2}{*}{\centering 0.17} &  \multirow{2}{*}{\centering 48.2} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 4544.0} & \multirow{2}{*}{\centering 1.15} & \multirow{2}{*}{\centering 1049.8} & \multirow{2}{*}{\centering 0.18} & \multirow{2}{*}{\centering 76.9} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering First Mom. Adj.} & \multirow{2}{*}{\centering 113464.0} & \multirow{2}{*}{\centering 13.41} & \multirow{2}{*}{\centering 32287.4} & \multirow{2}{*}{\centering 0.17} & \multirow{2}{*}{\centering 71.5} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom. Adj.} & \multirow{2}{*}{\centering 3170968.0} & \multirow{2}{*}{\centering 6.02} & \multirow{2}{*}{\centering 230115.0} & \multirow{2}{*}{\centering 0.17} & \multirow{2}{*}{\centering 92.7} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 85.0} & \multirow{2}{*}{\centering 10.49} & \multirow{2}{*}{\centering 0.0} & \multirow{2}{*}{\centering 0.15} & \multirow{2}{*}{\centering 100.0} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 402.0} & \multirow{2}{*}{\centering 1.88} & \multirow{2}{*}{\centering 185.4} & \multirow{2}{*}{\centering 0.27} & \multirow{2}{*}{\centering 53.7} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\ 
+
+					\hline
+					\multirow{12}{*}{\centering Center} & \multirow{12}{*}{\centering 96} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 104.0} & \multirow{2}{*}{\centering 0.36} & \multirow{2}{*}{\centering 64.9} & \multirow{2}{*}{\centering 0.10} &  \multirow{2}{*}{\centering 37.5} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 2794.0} & \multirow{2}{*}{\centering 0.34} & \multirow{2}{*}{\centering 970.5} & \multirow{2}{*}{\centering 0.10} & \multirow{2}{*}{\centering 65.2} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering First Mom. Adj.} & \multirow{2}{*}{\centering 90417.0} & \multirow{2}{*}{\centering 3.36} & \multirow{2}{*}{\centering 32596.8} & \multirow{2}{*}{\centering 0.12} & \multirow{2}{*}{\centering 64.0} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom. Adj.} & \multirow{2}{*}{\centering 2619617.0} & \multirow{2}{*}{\centering 2.45} & \multirow{2}{*}{\centering 254281.8} & \multirow{2}{*}{\centering 0.12} & \multirow{2}{*}{\centering 90.3} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 89.0} & \multirow{2}{*}{\centering 1.96} & \multirow{2}{*}{\centering 0.0} & \multirow{2}{*}{\centering 0.09} & \multirow{2}{*}{\centering 100.0} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 372.0} & \multirow{2}{*}{\centering 0.58} & \multirow{2}{*}{\centering 206.2} & \multirow{2}{*}{\centering 0.19} & \multirow{2}{*}{\centering 44.4} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\ 
+
+					\hline
+					\multirow{12}{*}{\centering South} & \multirow{12}{*}{\centering 57} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 90.0} & \multirow{2}{*}{\centering 0.16} & \multirow{2}{*}{\centering 55.0} & \multirow{2}{*}{\centering 0.07} &  \multirow{2}{*}{\centering 38.9} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 2826.0} & \multirow{2}{*}{\centering 0.18} & \multirow{2}{*}{\centering 906.6} & \multirow{2}{*}{\centering 0.06} & \multirow{2}{*}{\centering 67.9} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering First Mom. Adj.} & \multirow{2}{*}{\centering 88315.0} & \multirow{2}{*}{\centering 0.69} & \multirow{2}{*}{\centering 43940.2} & \multirow{2}{*}{\centering 0.06} & \multirow{2}{*}{\centering 50.2} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom. Adj.} & \multirow{2}{*}{\centering 2638863.0} & \multirow{2}{*}{\centering 0.47} & \multirow{2}{*}{\centering 506094.4} & \multirow{2}{*}{\centering 0.07} & \multirow{2}{*}{\centering 80.8} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 91.0} & \multirow{2}{*}{\centering 0.38} & \multirow{2}{*}{\centering 0.0} & \multirow{2}{*}{\centering 0.07} & \multirow{2}{*}{\centering 100.0} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 404.0} & \multirow{2}{*}{\centering 0.44} & \multirow{2}{*}{\centering 188.5} & \multirow{2}{*}{\centering 0.08} & \multirow{2}{*}{\centering 53.2} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\ 
+
+					\hline
+				\end{tabular}
+			\end{center}
+		\end{adjustwidth}
+	\end{table}
+
+
+	\begin{table}[!htp]
+		\begin{adjustwidth}{-5cm}{-5cm}
+		\caption{Discrete single results}
+		\label{tab:Discrete_Single_Results}
+			\begin{center}
+				\begin{tabular}{ccc|cc|cc|cc}
+					\noalign{\smallskip}
+					\multicolumn{2}{c}{\multirow{2}{*}{\centering Instance}} & \multirow{2}{*}{\centering Obj. Func.} & \multirow{2}{*}{\centering Opt.} & \multirow{2}{*}{\centering Time} & \multirow{2}{*}{\centering LR} & \multirow{2}{*}{\centering Time} & \multirow{2}{*}{\centering Linear Gap} & \multirow{2}{*}{\centering Final Gap (\%)} \\ & & & & & & & &\\ 
+
+
+					\hline
+					\multirow{8}{*}{\centering Square} & \multirow{8}{*}{\centering 100} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 22.1} & \multirow{2}{*}{\centering 3.06} & \multirow{2}{*}{\centering 14.0} & \multirow{2}{*}{\centering 0.12} &  \multirow{2}{*}{\centering 36.7} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 38.0} & \multirow{2}{*}{\centering 3.09} & \multirow{2}{*}{\centering 14.0} & \multirow{2}{*}{\centering 0.12} & \multirow{2}{*}{\centering 63.1} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 5.4} & \multirow{2}{*}{\centering 4.29} & \multirow{2}{*}{\centering 0.0} & \multirow{2}{*}{\centering 0.07} & \multirow{2}{*}{\centering 100.0} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 16.0} & \multirow{2}{*}{\centering 0.44} & \multirow{2}{*}{\centering 6.0} & \multirow{2}{*}{\centering 0.19} & \multirow{2}{*}{\centering 62.5} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\ 
+
+					\hline
+					\multirow{8}{*}{\centering Hexagon} & \multirow{8}{*}{\centering 127} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 53.7} & \multirow{2}{*}{\centering 5.30} & \multirow{2}{*}{\centering 31.2} & \multirow{2}{*}{\centering 0.16} &  \multirow{2}{*}{\centering 40.4} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 164.8} & \multirow{2}{*}{\centering 3.60} & \multirow{2}{*}{\centering 54.0} & \multirow{2}{*}{\centering 0.16} & \multirow{2}{*}{\centering 66.6} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 9.5} & \multirow{2}{*}{\centering 8.53} & \multirow{2}{*}{\centering 0.0} & \multirow{2}{*}{\centering 0.11} & \multirow{2}{*}{\centering 100.0} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\& &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 32.0} & \multirow{2}{*}{\centering 2.88} & \multirow{2}{*}{\centering 11.7} & \multirow{2}{*}{\centering 0.62} & \multirow{2}{*}{\centering 62.5} & \multirow{2}{*}{\centering 0.0}\\ & & & & & & & &\\ 
+
+					\hline
+				\end{tabular}
+			\end{center}
+		\end{adjustwidth}
+	\end{table}

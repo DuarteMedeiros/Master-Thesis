@@ -1,0 +1,23 @@
+Instance: Hexagon
+
+
+Obective Function: d_singular_SEM_AREA
+Center	Compactness
+   45       0.96
+
+
+Obective Function: d_squared_SEM_AREA
+Center	Compactness
+   45       0.96
+
+
+Obective Function: diameter_new
+Center	Compactness
+   0       0.95
+
+
+Obective Function: perimeter_new
+Center	Compactness
+   0       0.95
+
+

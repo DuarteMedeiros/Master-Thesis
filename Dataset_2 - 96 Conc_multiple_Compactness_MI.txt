@@ -1,0 +1,63 @@
+Instance: Dataset_2 - 96 Conc
+
+
+Obective Function: d_singular_SEM_AREA
+Center	Compactness
+   4       0.87
+   20       0.83
+   45       0.72
+   73       0.79
+   76       0.83
+   91       0.78
+
+
+Obective Function: d_squared_SEM_AREA
+Center	Compactness
+   4       0.87
+   20       0.83
+   45       0.72
+   73       0.79
+   76       0.84
+   91       0.77
+
+
+Obective Function: d_singular
+Center	Compactness
+   2       0.92
+   20       0.66
+   44       0.88
+   60       0.74
+   81       0.83
+   96       0.81
+
+
+Obective Function: d_squared
+Center	Compactness
+   4       0.87
+   20       0.85
+   57       0.72
+   67       0.73
+   76       0.89
+   87       0.87
+
+
+Obective Function: diameter_new
+Center	Compactness
+   1       0.38
+   4       0.53
+   15       0.41
+   32       0.82
+   45       0.55
+   60       0.79
+
+
+Obective Function: perimeter_new
+Center	Compactness
+   1       0.96
+   6       0.5
+   13       0.79
+   33       0.68
+   60       0.8
+   72       0.72
+
+

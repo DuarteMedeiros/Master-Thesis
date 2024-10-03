@@ -1,0 +1,41 @@
+Instance: Square
+
+
+Obective Function: d_singular_SEM_AREA
+Center	Compactness
+   6       0.84
+   34       0.93
+   52       0.93
+   55       0.84
+   74       0.84
+   79       0.84
+
+
+Obective Function: d_squared_SEM_AREA
+Center	Compactness
+   8       0.84
+   19       0.84
+   52       0.93
+   57       0.93
+   60       0.84
+   63       0.84
+
+
+Obective Function: diameter_new
+Center	Compactness
+   1       0.84
+   2       0.51
+   36       0.28
+   41       0.42
+   61       0.54
+
+
+Obective Function: perimeter_new
+Center	Compactness
+   1       0.38
+   3       0.67
+   4       0.35
+   37       0.93
+   43       0.93
+
+

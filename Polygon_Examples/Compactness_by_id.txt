@@ -1,0 +1,1 @@
+Polygon	Area	Peri	MD	rm	A/P2	R(A)/P	A/MD2	R(A)/MD	Pc/P	A/r2

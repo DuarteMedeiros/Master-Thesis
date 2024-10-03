@@ -1,0 +1,73 @@
+	\begin{table}[!htp]
+		\begin{adjustwidth}{-5cm}{-5cm}
+		\caption{Continuous single compactness}
+		\label{tab:Continuous_Single_Compactness}
+			\begin{center}
+				\begin{tabular}{cccccc}
+					\noalign{\smallskip}
+					\multicolumn{2}{c}{\multirow{4}{*}{\centering Instance}} & \multirow{4}{*}{\centering Obj. Func.} & \multicolumn{3}{c}{\multirow{2}{*}{\centering Evaluation Measures}}\\ & & & \multicolumn{3}{c}{} \\ \cline{4-6} & & & \multirow{2}{*}{\centering $\gamma_2$ (Perimeter)} & \multirow{2}{*}{\centering $\gamma_4$ (Diameter)} & \multirow{2}{*}{\centering $\gamma_{14}$ (Moment of Inertia)}\\ & & & & &\\   
+
+					\hline
+					\multirow{12}{*}{\centering North} & \multirow{12}{*}{\centering 125} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 0.30} & \multirow{2}{*}{\centering 0.64} & \multirow{2}{*}{\centering 0.92}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 0.30} & \multirow{2}{*}{\centering 0.64} & \multirow{2}{*}{\centering 0.92}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering First Mom. Adj.} & \multirow{2}{*}{\centering 0.30} & \multirow{2}{*}{\centering 0.64} & \multirow{2}{*}{\centering 0.92}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom. Adj.} & \multirow{2}{*}{\centering 0.30} & \multirow{2}{*}{\centering 0.64} & \multirow{2}{*}{\centering 0.92}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 0.24} & \multirow{2}{*}{\centering 0.83} & \multirow{2}{*}{\centering 0.96}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 0.37} & \multirow{2}{*}{\centering 0.66} & \multirow{2}{*}{\centering 0.92}\\ & & & & &\\ 
+
+					\hline
+					\multirow{12}{*}{\centering Center} & \multirow{12}{*}{\centering 96} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 0.29} & \multirow{2}{*}{\centering 0.73} & \multirow{2}{*}{\centering 0.95}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 0.29} & \multirow{2}{*}{\centering 0.73} & \multirow{2}{*}{\centering 0.95}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering First Mom. Adj.} & \multirow{2}{*}{\centering 0.19} & \multirow{2}{*}{\centering 0.24} & \multirow{2}{*}{\centering 0.76}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom. Adj.} & \multirow{2}{*}{\centering 0.24} & \multirow{2}{*}{\centering 0.67} & \multirow{2}{*}{\centering 0.90}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 0.29} & \multirow{2}{*}{\centering 0.73} & \multirow{2}{*}{\centering 0.97}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 0.43} & \multirow{2}{*}{\centering 0.61} & \multirow{2}{*}{\centering 0.93}\\ & & & & &\\ 
+
+					\hline
+					\multirow{12}{*}{\centering South} & \multirow{12}{*}{\centering 57} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 0.19} & \multirow{2}{*}{\centering 0.44} & \multirow{2}{*}{\centering 0.73}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 0.19} & \multirow{2}{*}{\centering 0.44} & \multirow{2}{*}{\centering 0.73}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering First Mom. Adj.} & \multirow{2}{*}{\centering 0.21} & \multirow{2}{*}{\centering 0.44} & \multirow{2}{*}{\centering 0.85}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom. Adj.} & \multirow{2}{*}{\centering 0.24} & \multirow{2}{*}{\centering 0.65} & \multirow{2}{*}{\centering 0.92}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 0.24} & \multirow{2}{*}{\centering 0.71} & \multirow{2}{*}{\centering 0.94}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 0.33} & \multirow{2}{*}{\centering 0.62} & \multirow{2}{*}{\centering 0.89}\\ & & & & &\\ 
+
+					\hline
+				\end{tabular}
+			\end{center}
+		\end{adjustwidth}
+	\end{table}
+
+
+	\begin{table}[!htp]
+		\begin{adjustwidth}{-5cm}{-5cm}
+		\caption{Discrete single compactness}
+		\label{tab:DiscreteSingle_Compactness}
+			\begin{center}
+				\begin{tabular}{cccccc}
+					\noalign{\smallskip}
+					\multicolumn{2}{c}{\multirow{4}{*}{\centering Instance}} & \multirow{4}{*}{\centering Obj. Func.} & \multicolumn{3}{c}{\multirow{2}{*}{\centering Evaluation Measures}}\\ & & & \multicolumn{3}{c}{} \\ \cline{4-6} & & & \multirow{2}{*}{\centering $\gamma_2$ (Perimeter)} & \multirow{2}{*}{\centering $\gamma_4$ (Diameter)} & \multirow{2}{*}{\centering $\gamma_{14}$ (Moment of Inertia)}\\ & & & & &\\   
+
+					\hline
+					\multirow{8}{*}{\centering Square} & \multirow{8}{*}{\centering 100} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 0.47} & \multirow{2}{*}{\centering 0.66} & \multirow{2}{*}{\centering 0.90}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 0.47} & \multirow{2}{*}{\centering 0.66} & \multirow{2}{*}{\centering 0.90}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 0.58} & \multirow{2}{*}{\centering 0.66} & \multirow{2}{*}{\centering 0.92}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 0.74} & \multirow{2}{*}{\centering 0.60} & \multirow{2}{*}{\centering 0.95}\\ & & & & &\\ 
+
+					\hline
+					\multirow{8}{*}{\centering Hexagon} & \multirow{8}{*}{\centering 127} & 
+					\multirow{2}{*}{\centering First Mom.} & \multirow{2}{*}{\centering 0.64} & \multirow{2}{*}{\centering 0.68} & \multirow{2}{*}{\centering 0.96}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Second Mom.} & \multirow{2}{*}{\centering 0.64} & \multirow{2}{*}{\centering 0.68} & \multirow{2}{*}{\centering 0.96}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Diameter} & \multirow{2}{*}{\centering 0.57} & \multirow{2}{*}{\centering 0.73} & \multirow{2}{*}{\centering 0.95}\\ & & & & &\\ & &
+					\multirow{2}{*}{\centering Perimeter} & \multirow{2}{*}{\centering 0.64} & \multirow{2}{*}{\centering 0.68} & \multirow{2}{*}{\centering 0.95}\\ & & & & &\\ 
+
+					\hline
+				\end{tabular}
+			\end{center}
+		\end{adjustwidth}
+	\end{table}
+
+
